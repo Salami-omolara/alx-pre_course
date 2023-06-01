@@ -1,1 +1,3 @@
-
+#!/bin/bash
+echo "School"
+root@baebe359e082:/alx-pre_course/0x01-git# cd
