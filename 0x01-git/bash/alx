@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "ALX"
+echo "ALX School is so cool! School"
 root@baebe359e082:/alx-pre_course/0×01-git# touch bash/school
 root@baebe359e082:/alx-pre_course/0×01-git# cat> bash/school
 #!/bin/bash
