@@ -1,5 +1,7 @@
 #!/bin/bash
 echo "ALX"
-
-
-bash/school
+root@baebe359e082:/alx-pre_course/0×01-git# touch bash/school
+root@baebe359e082:/alx-pre_course/0×01-git# cat> bash/school
+#!/bin/bash
+echo "School"
+root@baebe359e082:/alx-pre_course/0×01-git# cd ..
